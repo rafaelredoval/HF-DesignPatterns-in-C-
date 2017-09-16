@@ -1,0 +1,7 @@
+C:\Program Files\Git\Github\DesignPatterns\HFDesignPatterns\HFDesignPatterns\obj\Debug\HFDesignPatterns.csprojResolveAssemblyReference.cache
+C:\Program Files\Git\Github\DesignPatterns\HFDesignPatterns\HFDesignPatterns\obj\Debug\HFDesignPatterns.csproj.CoreCompileInputs.cache
+C:\Program Files\Git\Github\DesignPatterns\HFDesignPatterns\HFDesignPatterns\bin\Debug\HFDesignPatterns.exe.config
+C:\Program Files\Git\Github\DesignPatterns\HFDesignPatterns\HFDesignPatterns\bin\Debug\HFDesignPatterns.exe
+C:\Program Files\Git\Github\DesignPatterns\HFDesignPatterns\HFDesignPatterns\bin\Debug\HFDesignPatterns.pdb
+C:\Program Files\Git\Github\DesignPatterns\HFDesignPatterns\HFDesignPatterns\obj\Debug\HFDesignPatterns.exe
+C:\Program Files\Git\Github\DesignPatterns\HFDesignPatterns\HFDesignPatterns\obj\Debug\HFDesignPatterns.pdb
